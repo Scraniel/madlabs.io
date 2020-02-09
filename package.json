@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "private": true,
   "scripts": {
-    "start": "node ./madlabscore/helloworld"
+    "start": "node ./madlabs-core/helloworld"
   },
   "description": "hello-world",
   "author": {
